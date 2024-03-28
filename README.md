@@ -14,7 +14,8 @@ Um das Spiel zu spielen, müssen Sie Python und Pygame installiert haben. Sie k�
 4. Navigieren Sie im Datei-Explorer oder in Ihrer Befehlszeile in das Verzeichnis des Spiels.
 5. Führen Sie das Spiel aus, indem Sie `python main.py` in Ihrer Befehlszeile oder Ihrem Terminal eingeben.
 
-## Achtung : Dieses Spiel enthält Audioeffekte. Stelle sicher, dass deine Lautsprecher eingeschaltet sind, um das volle Spielerlebnis zu genießen!
+## Achtung :
+Dieses Spiel enthält Audioeffekte. Stellen Sie sicher, dass Ihre Lautsprecher eingeschaltet sind, um das volle Spielerlebnis zu genießen!
 
 ## Spielanleitung
 
