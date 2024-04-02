@@ -10,9 +10,12 @@ Um das Spiel zu spielen, müssen Sie Python und Pygame installiert haben. Sie k�
 
 1. Stellen Sie sicher, dass Sie Python installiert haben. Wenn nicht, können Sie es von der offiziellen [Python-Website](https://www.python.org/) herunterladen und installieren.
 2. Installieren Sie Pygame, indem Sie den Befehl `pip install pygame` in Ihrer Befehlszeile oder Ihrem Terminal ausführen.
-3. Laden Sie das Spiel von [hier](https://github.com/dein-username/dein-repository) herunter oder klonen Sie das Repository mit Git.
+3. Laden Sie das Spiel von [hier](https://github.com/Aliyavar2000/asteroidsGame.git) herunter oder klonen Sie das Repository mit Git.
 4. Navigieren Sie im Datei-Explorer oder in Ihrer Befehlszeile in das Verzeichnis des Spiels.
 5. Führen Sie das Spiel aus, indem Sie `python main.py` in Ihrer Befehlszeile oder Ihrem Terminal eingeben.
+
+## Achtung :
+Dieses Spiel enthält Audioeffekte. Stellen Sie sicher, dass Ihre Lautsprecher eingeschaltet sind, um das volle Spielerlebnis zu genießen!
 
 ## Spielanleitung
 
@@ -60,9 +63,8 @@ Um das Spiel zu spielen, müssen Sie Python und Pygame installiert haben. Sie k�
 
 - Die Hauptklasse, die das Spiel steuert und das Hauptspielobjekt darstellt.
 
-## Autoren
+## Autor
 
-- Vorname Nachname (E-Mail)
-- Vorname Nachname (E-Mail)
+- aya
 
 ## Lizenz
